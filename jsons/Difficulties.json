@@ -309,7 +309,7 @@
 		"clearBarbarianCampReward": 25
 	},
 	{
-		"name": "Sandbox",
+		"name": "Sandbox - Rediscovering",
 		"baseHappiness": 100,
 		"extraHappinessPerLuxury": 1,
 		"researchCostModifier": 0.09,
@@ -327,8 +327,8 @@
 		"aiWonderCostModifier": 0.01,
 		"aiBuildingMaintenanceModifier": 0.01,
 		"aiUnitMaintenanceModifier": 0.01,
-		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"aiFreeTechs": ["Navigation", "Botany", "Chemistry", "Engineering", "Education"],
+		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout", "Civilian Convoy", "Scout"],
 		"aiCityStateBonusStartingUnits": [
 			"Civilian Convoy",
 			"Scout",
