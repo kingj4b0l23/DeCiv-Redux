@@ -334,7 +334,7 @@
 			"Scout",
 			"Spearman"
 		],
-		"aiUnhappinessModifier": 0.75,
+		"aiUnhappinessModifier": 0.01,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
