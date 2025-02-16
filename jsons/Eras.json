@@ -19,7 +19,7 @@
 		"startingWorkerCount": 0,
 		"startingMilitaryUnitCount": 0,
 		"startingMilitaryUnit": "Scout",
-		"startingGold": 100,
+		"startingGold": 1000,
 		"startingCulture": 0,
 		"settlerPopulation": 1,
 		"startPercent": 10,
