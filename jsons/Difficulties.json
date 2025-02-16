@@ -327,7 +327,7 @@
 		"aiWonderCostModifier": 0.01,
 		"aiBuildingMaintenanceModifier": 0.01,
 		"aiUnitMaintenanceModifier": 0.01,
-		"aiFreeTechs": ["Navigation", "Botany", "Chemistry", "Engineering", "Education"],
+		"aiFreeTechs": ["Navigation", "Botany", "Chemistry", "Engineering", "Education", " Steel", "Currency"],
 		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout", "Civilian Convoy", "Scout"],
 		"aiCityStateBonusStartingUnits": [
 			"Civilian Convoy",
